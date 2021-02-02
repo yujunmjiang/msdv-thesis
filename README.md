@@ -9,3 +9,4 @@ In this part, the audience will learn both positive and negative effects on the 
 #### Evidence
 
 * [Gaming Sales Are Up, but Production Is Down](https://www.nytimes.com/2020/04/21/technology/personaltech/coronavirus-video-game-production.html)
+* [Inside Cyberpunk 2077's Disastrous Rollout](https://www.bloomberg.com/news/articles/2021-01-16/cyberpunk-2077-what-caused-the-video-game-s-disastrous-rollout)
