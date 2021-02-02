@@ -20,5 +20,5 @@ In this part, the audience will see how the game companies and retailers change 
 
 #### Evidence
 
-* [https://www.sfgate.com/news/bayarea/article/1-Arrested-1-At-Large-In-Playstation-5-Robbery-15905001.php](https://www.sfgate.com/news/bayarea/article/1-Arrested-1-At-Large-In-Playstation-5-Robbery-15905001.php)
+* [1 Arrested, 1 At Large In Playstation 5 Robbery In November](https://www.sfgate.com/news/bayarea/article/1-Arrested-1-At-Large-In-Playstation-5-Robbery-15905001.php)
 * [PS5 and Xbox Series reseller profits have reportedly cleared $58m](https://www.videogameschronicle.com/news/ps5-and-xbox-series-reseller-profits-have-reportedly-cleared-58m/)
