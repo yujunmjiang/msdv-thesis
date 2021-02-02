@@ -14,4 +14,4 @@ In this part, the audience will learn both positive and negative effects on the 
 
 ## Part 2: Sales
 
-Without doubt, both 
+Without doubt, both game companies and retailers are more successful than others in the past year base on their revenues. The pandemic has led people to relocate their buying experience from instore to online. Therefore, video games are easily become one of the most popular product in the market.
