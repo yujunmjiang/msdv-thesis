@@ -29,4 +29,4 @@ In this part, the audience will see how the game companies and retailers change 
 
 ## Part 3: Travel
 
-For safety consideration due to the COVID-19
+For safety consideration due to the COVID-19, travel is banned in many counties and it is sad that people are unable to attend many events such as Esports, 
