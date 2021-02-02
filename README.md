@@ -7,3 +7,5 @@ During the pandemic, people have to follow the temporary rule to work from home.
 In this part, the audience will learn both positive and negative effects on the production process. Also, the new popular game categories during the pandemic are discovered.
 
 #### Evidence
+
+* Gaming Sales Are Up, but Production Is Down
