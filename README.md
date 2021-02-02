@@ -8,4 +8,4 @@ In this part, the audience will learn both positive and negative effects on the 
 
 #### Evidence
 
-* Gaming Sales Are Up, but Production Is Down
+* [Gaming Sales Are Up, but Production Is Down](https://www.nytimes.com/2020/04/21/technology/personaltech/coronavirus-video-game-production.html)
