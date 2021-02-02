@@ -10,6 +10,7 @@ In this part, the audience will learn both positive and negative effects on the 
 
 * [Gaming Sales Are Up, but Production Is Down](https://www.nytimes.com/2020/04/21/technology/personaltech/coronavirus-video-game-production.html)
 * [Inside Cyberpunk 2077's Disastrous Rollout](https://www.bloomberg.com/news/articles/2021-01-16/cyberpunk-2077-what-caused-the-video-game-s-disastrous-rollout)
+* [Game Developers Conference (GDC) Survey Reveals Impact of COVID-19 on the Video Game Industry](https://www.globenewswire.com/news-release/2020/07/16/2063524/0/en/Game-Developers-Conference-GDC-Survey-Reveals-Impact-of-COVID-19-on-the-Video-Game-Industry.html)
 * [Animal Crossing Didn't Win Game Of The Year At The Game Awards, But Definitely Won It In Our Hearts](https://www.thegamer.com/animal-crossing-game-of-the-year/)
 * [More than half of Americans turned to video games during lockdown](https://www.theverge.com/2021/1/6/22215786/video-games-covid-19-animal-crossing-among-us)
 
@@ -25,3 +26,5 @@ In this part, the audience will see how the game companies and retailers change 
 * [PS5 and Xbox Series reseller profits have reportedly cleared $58m](https://www.videogameschronicle.com/news/ps5-and-xbox-series-reseller-profits-have-reportedly-cleared-58m/)
 * [‘Pokémon GO’ Made Nearly $2 Billion During 2020’s Pandemic](https://www.forbes.com/sites/paultassi/2021/01/08/pokmon-go-made-nearly-2-billion-during-2020s-pandemic/?sh=8271cf57afc3)
 * [Sensor Tower: Genshin Impact brings in nearly $400 million in 2 months on mobile](https://venturebeat.com/2020/12/01/sensor-tower-genshin-impact-brings-in-nearly-400-million-in-2-months-on-mobile/)
+
+## Part 3: Travel
