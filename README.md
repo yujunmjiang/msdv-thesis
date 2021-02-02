@@ -22,3 +22,5 @@ In this part, the audience will see how the game companies and retailers change 
 
 * [1 Arrested, 1 At Large In Playstation 5 Robbery In November](https://www.sfgate.com/news/bayarea/article/1-Arrested-1-At-Large-In-Playstation-5-Robbery-15905001.php)
 * [PS5 and Xbox Series reseller profits have reportedly cleared $58m](https://www.videogameschronicle.com/news/ps5-and-xbox-series-reseller-profits-have-reportedly-cleared-58m/)
+* [‘Pokémon GO’ Made Nearly $2 Billion During 2020’s Pandemic](https://www.forbes.com/sites/paultassi/2021/01/08/pokmon-go-made-nearly-2-billion-during-2020s-pandemic/?sh=8271cf57afc3)
+* [Sensor Tower: Genshin Impact brings in nearly $400 million in 2 months on mobile](https://venturebeat.com/2020/12/01/sensor-tower-genshin-impact-brings-in-nearly-400-million-in-2-months-on-mobile/)
