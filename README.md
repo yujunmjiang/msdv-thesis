@@ -36,4 +36,4 @@ In this part, the audience will understand how these events are important to the
 #### Evidence
 
 * [How the League of Legends World Championship went on in a pandemic](https://www.espn.com/esports/story/_/id/29947502/how-league-legends-world-championship-went-pandemic)
-* [https://www.theverge.com/2021/1/31/22257888/steam-game-festival-pc-indie-developers](https://www.theverge.com/2021/1/31/22257888/steam-game-festival-pc-indie-developers)
+* [The latest Steam Game Festival kicks off Wednesday](https://www.theverge.com/2021/1/31/22257888/steam-game-festival-pc-indie-developers)
