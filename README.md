@@ -39,3 +39,5 @@ In this part, the audience will understand how these events are important to the
 * [The latest Steam Game Festival kicks off Wednesday](https://www.theverge.com/2021/1/31/22257888/steam-game-festival-pc-indie-developers)
 
 ## Part 4: Services
+
+Proof the first and third parts using APIs.
