@@ -32,3 +32,8 @@ In this part, the audience will see how the game companies and retailers change 
 For safety consideration due to the COVID-19, travel is banned in many counties and it is sad that people are unable to attend many events such as Esports, product launch, exhibition, etc. Fortunately, companies and organizations made effort to bring many of them to the online platform by streaming services. Thus, people in differnt regions can join the events virtually without any physical gathering.
 
 In this part, the audience will understand how these events are important to the community and what is the protential collaboration with other services. The content can explaine the advantage of virtual events and make a prediction for the post-pandemic period.
+
+#### Evidence
+
+* [How the League of Legends World Championship went on in a pandemic](https://www.espn.com/esports/story/_/id/29947502/how-league-legends-world-championship-went-pandemic)
+* [https://www.theverge.com/2021/1/31/22257888/steam-game-festival-pc-indie-developers](https://www.theverge.com/2021/1/31/22257888/steam-game-festival-pc-indie-developers)
