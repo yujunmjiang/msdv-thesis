@@ -40,4 +40,4 @@ In this part, the audience will understand how these events are important to the
 
 ## Part 4: Services
 
-Proof the first and third parts using APIs.
+Prove the first and third parts using APIs.
