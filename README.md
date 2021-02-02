@@ -17,3 +17,8 @@ In this part, the audience will learn both positive and negative effects on the 
 Without doubt, both game companies and retailers are more successful than others in the past year base on their revenues. The pandemic has led people to relocate their buying experience from instore to online. Therefore, video games are easily become one of the most popular product in the market. In the second half of 2020, Microsoft and Sony have released their new consoles, and they were sold out quickly through the retailers including Amazon, GameStop, Best Buy, Walmart, Target, etc. Not only this, the secondary (resale) market has made a big profit as well. With the development of mobile devices, smartphones can haddle better graphics now, so more and more people like to play mobile games, especially during the quarantine.
 
 In this part, the audience will see how the game companies and retailers change their sales method, which could be the mainstream even after the pandemic. On another hand, mobile devices became an attractive platform with a bigger global market and more profit.
+
+#### Evidence
+
+* [https://www.sfgate.com/news/bayarea/article/1-Arrested-1-At-Large-In-Playstation-5-Robbery-15905001.php](https://www.sfgate.com/news/bayarea/article/1-Arrested-1-At-Large-In-Playstation-5-Robbery-15905001.php)
+* [PS5 and Xbox Series reseller profits have reportedly cleared $58m](https://www.videogameschronicle.com/news/ps5-and-xbox-series-reseller-profits-have-reportedly-cleared-58m/)
