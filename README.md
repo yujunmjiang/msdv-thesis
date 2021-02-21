@@ -41,3 +41,7 @@ In this part, the audience will understand how these events are important to the
 ## Part 4: Services
 
 Prove the first and third parts using APIs.
+
+## System Diagram
+
+<img src="https://github.com/yujunmjiang/msdv-thesis/blob/main/image/MSDV-Thesis-System-Diagram.jpg">
