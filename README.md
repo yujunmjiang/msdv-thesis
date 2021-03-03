@@ -49,3 +49,7 @@ Prove the first and third parts using APIs.
 ## Prototype 1
 
 <img src="https://github.com/yujunmjiang/msdv-thesis/blob/main/image/MSDV-Thesis-Wireframe-01.jpg">
+
+## Prototype 2
+
+<img src="https://github.com/yujunmjiang/msdv-thesis/blob/main/image/MSDV-Thesis-Wireframe-02.jpg">
